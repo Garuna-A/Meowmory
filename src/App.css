@@ -1,0 +1,26 @@
+.heading{
+  background-color: #FE7743;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+.scoreboard{
+  font-weight: 200;
+  font-size: 1.5rem;
+}
+.bottom{
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  text-align: center;
+}
+
+.bottom a {
+  color: #FE7743;
+  text-decoration: none;
+  font-weight: bold;
+}
+.bottom a:hover{
+  text-decoration: underline;
+}
