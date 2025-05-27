@@ -88,7 +88,7 @@ const CatFetcher=({score,setScore,setScoreData,value,setValue})=>{
             
                 {catData.map(([url,breed],i)=>(
                   <button key={i} onClick={()=>handleClick(url)}>
-                    <img src={url} alt={breed} width={250} />
+                    <img src={url} alt={breed} width={150} />
                     <p>{breed}</p>
                   </button>  
                 ))}
