@@ -14,7 +14,7 @@ function App() {
     <div className='page'>
       <div className="heading">
         <h1>Meowmory</h1>
-        <p style={{fontSize:'1.5rem'}}>(🐾 Click a cat only once!)</p>
+        <p style={{fontSize:'1.2rem', padding:0, marginTop:0}}>(🐾 Click a cat only once!)</p>
       </div>
       <div className="scoreboard">
         <ScoreTracker score={score} scoreData={scoreData}/>
