@@ -58,7 +58,7 @@ const CatFetcher=({score,setScore,setScoreData,value,setValue})=>{
                 color:"#EFEEEA"
             })
             setValue(4);
-            setScore(0);
+            setScoreCopi(1);
             setClickData([]);
         }
     }
