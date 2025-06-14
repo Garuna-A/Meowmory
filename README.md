@@ -1,5 +1,4 @@
 # 🐾 Meowmory
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/5969ab95-25db-4430-a6f6-b2269d226e08/deploy-status)](https://cvbuilder01.netlify.app/)
 ![Meowmory Screenshot](https://github.com/Garuna-A/Meowmory/blob/main/src/assets/meowmorySample.jpeg)
 
@@ -49,7 +48,7 @@ To run Meowmory locally, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Garuna-A/Meowmory.git](https://github.com/Garuna-A/Meowmory.git)
+    git clone https://github.com/Garuna-A/Meowmory.git
     cd Meowmory
     ```
 
